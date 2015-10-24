@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary100">#B2DFDB</color>
+    <color name="colorPrimary500">#009688</color>
+    <color name="colorPrimary700">#00796B</color>
+
+    <color name="colorMarsRedPlanet">#FF5722</color>
+    <color name="colorWinterDay">#2196F3</color>
+
+    <color name="colorAccentA100">#FFFF8D</color>
+    <color name="colorAccentA200">#FFFF00</color>
+    <color name="colorAccentA400">#FFEA00</color>
+</resources>
